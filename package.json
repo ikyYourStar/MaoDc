@@ -1,0 +1,17 @@
+{
+  "name": "maomao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maomao.js",
+  "scripts": {
+    "start": "node maomao.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
+}
